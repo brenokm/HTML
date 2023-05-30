@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Aprendendo o HTML básico</title>
+</head>
+<style>
+body {
+ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbnlsf83pC_hS2-41Vt5AT3SYG9Q-q7-vy4Mq9hdB5CD2ybmFVv_IS_Uzq5VUBjnXPhyU&usqp=CAU")}
+</style>
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+padding: 8px;
+background-color: #dddddd;
+}
+<body>
+<ul>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#news">News</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#about">About</a></li>
+</ul>
+
+<header>
+    <h1>Bem vindo ao meu site  </h1>
+
+    <nav>
+        <P>menu</P>
+        <img src="https://t2.ea.ltmcdn.com/pt/posts/6/8/8/animais_da_china_23886_orig.jpg"width="300" height="200">
+        <li><a href="https://pt.wikipedia.org/wiki/Macaco">Macaco</a></li>
+        <li><a href="https://pt.wikipedia.org/wiki/Tigre">Tigre</a></li>
+        <li><a href="https://pt.wikipedia.org/wiki/Panda">Panda</a></li>
+        <li><a href="https://pt.wikipedia.org/wiki/Cobra">Cobra</a></li>
+        <li><a href="https://pt.wikipedia.org/wiki/Panda-vermelho">Panda-Vermelho</a></li>
+        <li><a href="https://pt.wikipedia.org/wiki/Louva-a-deus">Louva-Deus</a></li>
+    </nav>
+</header>
+</body>
+</html>
