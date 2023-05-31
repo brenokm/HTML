@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Aprendendo o HTML básico</title>
+</head>
+<style>
+.myDiv {
+  div-align:center;
+  height:1200px;
+  width:500px;
+  background-color: #F8DEDE;
+  text-align: center;
+  }
+body{
+background-image: url("https://rare-gallery.com/mocahbig/418358-tea-Chinese-digital-art-Xia_Ke-China-China-gufen.jpg"  )
+}
+  display: inline;
+}
+{
+font-size:100px;
+}
+body {
+ background-color: white;
+ }
+</style>
+<body>
+<center>
+<div class="myDiv">
+    <h1>Bem-vindo ao meu site  </h1>
+    <ol style=" list-style-type:none" style="inline">
+        <center>
+            <a href="#home">Home</a></li>
+            <a href="#news">News</a></li>
+            <a href="#contact">Contact</a></li>
+            <a href="#about">About</a></li>
+        </center>
+
+    </ol>
+
+    <header>
+        <center>
+
+        </center>
+
+        <nav>
+
+            <ul>
+                <center>
+                    <img src="https://img.freepik.com/fotos-gratis/bandeira-da-china_1401-89.jpg?w=1380&t=st=1685542683~exp=1685543283~hmac=88f511804f601d0f089d557e474202c1ad47035128f239c07b1abadbbd4356fb" width="300" height="200">
+                </center>
+                <p>menu</p>
+
+                <a href="https://pt.wikipedia.org/wiki/Macaco">Macaco</a>
+                <br>
+                <a href="https://pt.wikipedia.org/wiki/Tigre">Tigre</a>
+                <br>
+                <a href="https://pt.wikipedia.org/wiki/Panda">Panda</a>
+                <br>
+                <a href="https://pt.wikipedia.org/wiki/Cobra">Cobra</a>
+                <br>
+                <a href="https://pt.wikipedia.org/wiki/Panda-vermelho">Panda-Vermelho</a>
+                <br>
+                <a href="https://pt.wikipedia.org/wiki/Louva-a-deus">Louva-Deus</a>
+                <br>
+                <a href="https://pt.wikipedia.org/wiki/Jacar%C3%A9-da-china">Jacaré-da-China</a>
+            </ul>
+
+        </nav>
+
+</div>
+</center>
+</header>
+</body>
+</html>
