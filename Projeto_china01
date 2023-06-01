@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>integração</title>
+    <link rel="stylesheet" href="\BRENO_BIBLIOTECA\BIBLIOTECA\CSS\tela.css" media="screen">
+
+<body>
+<center>
+    <div class="myDiv">
+        <h1>Bem-vindo ao meu site  </h1>
+        <ol>
+            <center>
+                <a href="#home">Home</a></li>
+                <a href="#news">News</a></li>
+                <a href="#contact">Contact</a></li>
+                <a href="#about">About</a></li>
+            </center>
+        </ol>
+            <center>
+            </center>
+            <nav>
+                <ul>
+                    <center>
+                        <img src="https://img.freepik.com/fotos-gratis/bandeira-da-china_1401-89.jpg?w=1380&t=st=1685542683~exp=1685543283~hmac=88f511804f601d0f089d557e474202c1ad47035128f239c07b1abadbbd4356fb" width="300" height="200">
+                    </center>
+                    <p>menu</p>
+                    <a href="">Bandeira</a><br>
+                    <a href="">História</a><br>
+                    <a href="">Fauna</a><br>
+                    <a href="">Flora</a><br>
+                    <a href="">População</a><br>
+                    <a href="">Arte</a><br>
+                    <a href="">Política</a><br>
+                    <a href="">Social Credits</a><br>
+                    <a href="">Curiosidades</a>
+                </ul>
+            </nav>
+            <form>
+                <input type="text"><br>
+                <input type="password"><br>
+                <input type="number"><br>
+            </form>
+    </div>
+</center>
+</body>
+</head>
+</html>
